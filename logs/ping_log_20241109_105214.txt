@@ -1,0 +1,8 @@
+Monitoramento de ping para 8.8.8.8
+Início: 2024-11-09 10:52:14
+--------------------------------------------------
+[10:52:16] Status: Sucesso - Ping: 33.0ms
+[10:52:18] Status: Sucesso - Ping: 56.0ms
+[10:52:19] Status: Sucesso - Ping: 33.0ms
+[10:52:20] Status: Sucesso - Ping: 34.0ms
+[10:52:21] Status: Sucesso - Ping: 32.0ms
