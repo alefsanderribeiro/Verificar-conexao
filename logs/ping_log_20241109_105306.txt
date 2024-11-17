@@ -1,7 +1,0 @@
-Monitoramento de ping para 129.148.28.130
-Início: 2024-11-09 10:53:06
---------------------------------------------------
-[10:53:08] Status: Sucesso - Ping: 60.0ms
-[10:53:09] Status: Sucesso - Ping: 61.0ms
-[10:53:10] Status: Sucesso - Ping: 60.0ms
-[10:53:11] Status: Sucesso - Ping: 58.0ms

@@ -96,7 +96,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✨ Autor
 
-Alefe - [GitHub](https://github.com/seu-usuario)
+Alefsander - [GitHub](https://github.com/alefsanderribeiro)
 
 ## 🔄 Versão
 
@@ -109,4 +109,5 @@ Alefe - [GitHub](https://github.com/seu-usuario)
 
 ---
 ⌨️ com ❤️ por [Alefe](https://github.com/alefsanderribeiro)
-```
+
+

@@ -1,3 +1,34 @@
+# Arquivos de build e cache
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de ambiente virtual
+venv/
+env/
+.env
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos de configuração local
+config.json
+historico_endereço_ping.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos IDE
+.vscode/
+.idea/
+*.swp
+
+
 # Python-generated files
 __pycache__/
 *.py[oc]
